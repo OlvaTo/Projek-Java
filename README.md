@@ -1,2 +1,2 @@
-# Projek-Java
+# ProjekJava
 Kumpulan Projek Java Yang Kubuat
